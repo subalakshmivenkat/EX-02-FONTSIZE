@@ -24,7 +24,7 @@ Program to Develop an application that uses Font Size using Android Studio .
 Developed by: Subalakshmi V
 Register Number:  212222040162
 
-# Main.java:
+# MainActivity.java:
 ```
 package com.example.demo;
 
@@ -90,7 +90,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-# XML
+# MainActivity.XML
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -126,7 +126,8 @@ public class MainActivity extends AppCompatActivity {
         android:textSize="25sp" />
 </LinearLayout>
 ```
-# Output:![image](https://github.com/user-attachments/assets/5cd006ba-9bf0-4020-85ee-7d6f8c998bc3)
+# Output:
+![image](https://github.com/user-attachments/assets/a89e9004-f4ed-4479-97b7-b545c536c84b)
 
 # Result:
 Thus, the program for android application, Font Size was executed successfully using Android Studio.
